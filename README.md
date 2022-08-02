@@ -1,4 +1,4 @@
-# 100 Days of Python Code
+# 100 Days of Python code
 A compilation of the projects and exercises realized for Udemy's 100 Days of Code course. 
 
 ## Games 🕹️
