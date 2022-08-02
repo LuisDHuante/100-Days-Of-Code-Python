@@ -2,12 +2,22 @@
 A compilation of the projects and exercises realized for Udemy's 100 Days of Code course. 
 
 ## Games
+-
 
 ## Web Development
 
 ## Apps
+-Flashcard App
+-Kanye Quotes GUI
+-Music Time Machine
+
 
 ## Automation and scripts
+-Automated Birthday Wisher
+-Flight Club
+-ISS Notifier
+-Letter Maker
+
 
 ## Data Science 
 
