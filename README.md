@@ -2,21 +2,39 @@
 A compilation of the projects and exercises realized for Udemy's 100 Days of Code course. 
 
 ## Games
--
+- Pong
+- Snake
+- Turtle Crossing
+- BlackJack
+- Blind Auction
+- Guess The Number
+- Higher/Lower
+- Rock Paper Scissors
+- Turtle Race
+
 
 ## Web Development
 
 ## Apps
--Flashcard App
--Kanye Quotes GUI
--Music Time Machine
+- Flashcard App
+- Kanye Quotes GUI
+- Music Time Machine
+- Password Manager
+- Pomodoro Timer
+- Quizlet (Quiz App)
+- Caesar Cypher
+- Habit Tracker
+- Etch A Sketch
+- Workout Tracker with Google Sheets
 
 
 ## Automation and scripts
--Automated Birthday Wisher
--Flight Club
--ISS Notifier
--Letter Maker
+- Automated Birthday Wisher
+- Flight Club
+- ISS Overhead Notifier
+- Letter Maker
+- Weather Alert Notifier 
+- Stock Trading News Alert
 
 
 ## Data Science 
