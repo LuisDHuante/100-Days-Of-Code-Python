@@ -1,7 +1,7 @@
 # 100 Days of Python code
 A compilation of the projects and exercises realized for Udemy's 100 Days of Code course. 
 
-## Games 🕹️
+## 🕹️ Games 
 - Pong
 - Snake
 - Turtle Crossing
@@ -13,9 +13,9 @@ A compilation of the projects and exercises realized for Udemy's 100 Days of Cod
 - Turtle Race
 
 
-## Web Development 🌐
+## 🌐 Web Development 
 
-## Apps 🖥️
+## 🖥️ Apps 
 - Flashcard App
 - Kanye Quotes GUI
 - Music Time Machine
@@ -28,7 +28,7 @@ A compilation of the projects and exercises realized for Udemy's 100 Days of Cod
 - Workout Tracker with Google Sheets
 
 
-## Automation and scripts 🤖
+## 🤖 Automation and scripts 
 - Automated Birthday Wisher
 - Flight Club
 - ISS Overhead Notifier
@@ -37,7 +37,7 @@ A compilation of the projects and exercises realized for Udemy's 100 Days of Cod
 - Stock Trading News Alert
 
 
-## Data Science 📊
+## 📊 Data Science 
 
 ## ⚙ Tools, libraries and technologies
 - Python 3
