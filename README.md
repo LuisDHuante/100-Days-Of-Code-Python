@@ -35,6 +35,7 @@ A compilation of the projects and exercises realized for Udemy's 100 Days of Cod
 - Letter Maker
 - Weather Alert Notifier 
 - Stock Trading News Alert
+- Price Tracker
 
 
 ## 📊 Data Science 
