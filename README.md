@@ -3,6 +3,8 @@ A compilation of the projects and exercises realized for Udemy's 100 Days of Cod
 
 ## Games
 
+## Web Development
+
 ## Apps
 
 ## Automation and scripts
